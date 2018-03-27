@@ -90,7 +90,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   /*background-color: $header-bg-color;*/
-  background: $header-bg-color url(../images/triad_landscape.png) center no-repeat border-box; 
+  background: #000 url(../images/triad_landscape.png) center no-repeat border-box cover; 
 
   @include large {
     padding: 5rem 6rem;
