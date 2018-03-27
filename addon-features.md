@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [](#header-1) Exclusive Addon for Triad
+## [](#header-1)Exclusive Addon for Triad
 
 ## [](#header-2)Disclaimer
 This addon is free of use. Please do not distribute this addon to non-guild members as it may draw attention. While every care has been taken in preparation of this Addon, I accepts no liability for any loss or damage either direct or consequential. _**Use it at your OWN RISK**_.
