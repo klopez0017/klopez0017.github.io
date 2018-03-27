@@ -44,7 +44,7 @@ Tweaks the zoom limit to farther view. Easy sniping eh.
 ![](assets/Addon/zoom.JPG)
 
 ##### Enhanced Player/Monster Information
-Shows how much HP, Race, Shape and Nature of the Monster
+Shows how much HP, Race, Shape and Nature of the Monster.
 ![](assets/Addon/monster_tip.JPG)
 
 * * *
