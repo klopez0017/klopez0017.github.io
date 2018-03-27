@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [](#header-1)Exclusive Addon for Triad
+# [](#header-1)Exclusive Addon for Triad
 
 ## [](#header-2)Disclaimer
 This addon is free of use. Please do not distribute this addon to non-guild members as it may draw attention. While every care has been taken in preparation of this Addon, I accepts no liability for any loss or damage either direct or consequential. _**Use it at your OWN RISK**_.
@@ -15,7 +15,7 @@ Internal Storage > Android > data > com.xd.ro.roapk > files > Android > resource
 ```
 4. Paste the downloaded login.unity3d into that folder and overwrite if needed. (You may backup the original login.unity3d incase you want to revert back.)
 5. Login in game and see if the popup message show and you are good to go!
-
+![](assets/Addon/welcome.png)
 _yay_
 
 [back](./)
