@@ -89,8 +89,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: url("https://klopez0017.github.io/assets/images/triad_landscape.png")
+  /*background-color: $header-bg-color;*/
+  background: $header-bg-color url(../images/triad_landscape.png) no-repeat fixed center; 
 
   @include large {
     padding: 5rem 6rem;
