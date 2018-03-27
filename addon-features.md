@@ -26,7 +26,28 @@ Internal Storage > Android > data > com.xd.ro.roapk > files > Android > resource
 You can type in the chat box using **/help** to see all the available commands.
 
 ### Main Features
+###### Enhanced MVP Timer
+Now shows the exact time in HH:MM:SS format. Sorts the list to the nearest monster to spawn.
+![](assets/Addon/mvp_board.jpg)
+![](assets/Addon/mvp_notif.jpg)
 
+###### Enhanced Skill ToolTip
+Now shows the Variable and Fixed Cast Time of every skills
+![](assets/Addon/skill_tip.jpg)
+
+###### Enhanced Cooking
+Now you can do bulk-cooking and when you click on a locked-recipe, you can now easily add the required ingredients. This makes cooking very easy!
+![](assets/Addon/bulk_cook.jpg) ![](assets/Addon/cook_recipe.jpg)
+
+###### Enhanced Zoom Out
+Tweaks the zoom limit to farther view. Easy sniping eh.
+![](assets/Addon/zoom.jpg)
+
+###### Enhanced Player/Monster Information
+Shows how much HP, Race, Shape and Nature of the Monster
+![](assets/Addon/monster_tip.jpg)
+
+* * *
 
 ### Available Commands in Game
 
