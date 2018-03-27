@@ -11,7 +11,7 @@ In this website you will see all the available guides, updates, useful links, et
 ### Useful Links.
 - [Endless Tower List](ro.zhaiwuyu.com/endlessTower/) - MVP updates every Monday and Tuesday (after maintenance) and MINI updates every Tuesday (after maintenance)
 - Rank Quest Guide
-  - [Rank Scount](https://lh3.googleusercontent.com/Zev1exQ9YDj2UwpwtdAE53seMIDHTcXZLwxyFvBMmW7V9cu5Zal_RmM0a6ekWf2wAWlXpMKIVf_rW92tVh6LoLzvwhuSgSijCd2A53yQrgDJ1v7u8Nco=w572)
+  - [Rank Scout](https://lh3.googleusercontent.com/Zev1exQ9YDj2UwpwtdAE53seMIDHTcXZLwxyFvBMmW7V9cu5Zal_RmM0a6ekWf2wAWlXpMKIVf_rW92tVh6LoLzvwhuSgSijCd2A53yQrgDJ1v7u8Nco=w572)
   - [Rank F](https://lh6.googleusercontent.com/mXkDob9Hm01_NRI2GtiZ3Ct7HLiACWO9Hqqj47INRJotQMMjj7diugSEGXfp4QlFq68ba-N14bS6BFtj1AUj5gpSRWAhRteCggnvY_Fxwq20EFdNig=w572)
   - [Rank E](https://lh6.googleusercontent.com/cIKGH8-k_Gug6t7seFgFtAeotSbQUH5ySjl1HjfaBAAUBtH_ODVpbTCTvwjS46BCQ7Qs2nqTPNM_SEI6lnnZO9RNxMILp7WPmhO4qCT99aZaSPEb3qiw=w572)
   - [Rank D](https://lh3.googleusercontent.com/G-AWpbiHh2wiqfJDjw8-6OfZaO4plsjDEbXTQKc5-shYVllRj2277R_cpG-pbcDOaKrnqiTltaudlsvkxkoN79Gb1-v9OxT6e4st5RtTW6Dkg9NW3zg=w572)
