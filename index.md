@@ -28,4 +28,3 @@ In this website you will see all the available guides, updates, useful links, et
 - [Glast Heim Journal Unlocks](https://klopez0017.github.io/assets/images/Quest/gh-collection.png)
 - [Glast Heim Special MVP](https://klopez0017.github.io/assets/images/Quest/gh-smvp.png)
 - [Clock Tower Headgear Collections Guide](https://klopez0017.github.io/assets/images/Quest/alde-hgears.png)
-

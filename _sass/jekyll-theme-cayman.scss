@@ -87,10 +87,10 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
+	color: $header-heading-color;
   text-align: center;
-  /*background-color: $header-bg-color;*/
-  background: #000 url(../images/triad_landscape.png) center no-repeat border-box; 
+  background-color: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+	background-image: url(../images/triad_landscape.png) center no-repeat border-box;
 
   @include large {
     padding: 5rem 6rem;
